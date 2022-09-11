@@ -1,0 +1,7 @@
+name= input("Name is : ")
+age=input("Age is : ")
+country=input("my country is: ")
+print("Hello, my name is "+name+" and i am "+age+" years old  and i live in "+country+"")
+print(type(name))
+print(type(age))
+print(type(country))
