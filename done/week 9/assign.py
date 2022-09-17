@@ -17,7 +17,6 @@
 # print(os.getcwd())
 # print("%"*100)
 # print(os.path.abspath(__file__))
-# #print(__file__)
 # print("%"*100)
 # print(os.path.relpath(__file__))
 # print("%"*100)
